@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.training-guide {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+.sub {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+
+}
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+.footer {
+    text-align: right;
+} 
